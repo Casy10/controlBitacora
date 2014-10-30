@@ -1,0 +1,488 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"remi",
+				"RemindableInterface"
+			],
+			[
+				"User",
+				"UserInterface"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"pag",
+				"paginate"
+			],
+			[
+				"na",
+				"native"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"st",
+				"style	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/casy/app/routes.php",
+		"/C/xampp/htdocs/casy/app/models/Profesor.php",
+		"/C/xampp/htdocs/casy/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/casy/app/controllers/ProfesoresController.php",
+		"/C/xampp/htdocs/casy/app/views/create.blade.php",
+		"/C/xampp/htdocs/loginrm/app/routes.php",
+		"/C/xampp/htdocs/casy/app/views/edit.blade.php",
+		"/C/xampp/htdocs/casy/app/filters.php",
+		"/C/xampp/htdocs/loginrm/app/config/app.php",
+		"/C/xampp/htdocs/casy/app/views/login.blade.php",
+		"/C/xampp/htdocs/casy/app/views/layout.blade.php",
+		"/C/xampp/htdocs/casy/app/views/index.blade.php",
+		"/C/xampp/htdocs/casy/app/views/delete.blade.php",
+		"/C/xampp/htdocs/casy/app/controllers/BaseController.php",
+		"/C/xampp/htdocs/laravel/app/models/User.php",
+		"/C/xampp/htdocs/loginrm/app/controllers/UsersController.php",
+		"/C/xampp/htdocs/loginrm/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/loginrm/app/models/User.php",
+		"/C/xampp/htdocs/loginrm3/app/controllers/UsersController.php",
+		"/C/xampp/htdocs/loginrm3/app/routes.php",
+		"/C/xampp/htdocs/loginrm2/app/controllers/UsersController.php",
+		"/C/xampp/htdocs/loginrm2/app/routes.php",
+		"/C/xampp/htdocs/laravel/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/loginrm/app/config/auth.php",
+		"/C/xampp/htdocs/laravel/app/views/login.blade.php",
+		"/C/xampp/htdocs/laravel/app/config/auth.php",
+		"/C/xampp/htdocs/loginrm/app/config/database.php",
+		"/C/xampp/htdocs/loginrm/app/filters.php",
+		"/C/xampp/htdocs/laravel/app/filters.php",
+		"/C/xampp/htdocs/laravel/app/routes.php",
+		"/C/Users/Victor/Documents/GitHub/reporta-morelia/reporta-morelia/loginrm/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/loginrm/app/views/login.blade.php",
+		"/C/Users/Victor/Documents/GitHub/reporta-morelia/reporta-morelia/loginrm/app/controllers/UsersController.php",
+		"/C/Users/Victor/Documents/GitHub/reporta-morelia/reporta-morelia/loginrm/app/routes.php",
+		"/C/xampp/htdocs/loginrm/app/views/index.blade.php",
+		"/C/xampp/htdocs/loginrm - copia/app/controllers/UsersController.php",
+		"/C/Users/Victor/Documents/Proy_moto1.jj",
+		"/C/xampp/htdocs/loginrm - copia/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/loginrm - copia/app/routes.php",
+		"/C/xampp/htdocs/loginrm - copia/app/views/index.blade.php",
+		"/C/xampp/htdocs/loginrm/public/index.php",
+		"/C/xampp/htdocs/reporta-Morelia/public/index.php",
+		"/C/xampp/htdocs/login_laravel1/app/routes.php",
+		"/C/xampp/htdocs/loginrm/app/database/migrations/2014_10_21_061206_users.php",
+		"/C/xampp/htdocs/casy/app/config/database.php",
+		"/C/xampp/htdocs/casy/app/controllers/UsersController.php",
+		"/C/xampp/htdocs/loginrm/app/views/delete.blade.php",
+		"/C/xampp/htdocs/loginrm/app/views/edit.blade.php",
+		"/C/xampp/htdocs/loginrm/app/views/create.blade.php",
+		"/C/xampp/htdocs/casy/app/database/seeds/DatabaseSeeder.php",
+		"/C/xampp/htdocs/loginrm/app/database/seeds/UserTableSeeder.php",
+		"/C/xampp/htdocs/casy/app/database/seeds/ProfesorTableSeeder.php",
+		"/C/xampp/htdocs/casy/app/models/pony.php",
+		"/C/xampp/htdocs/casy/app/database/migrations/2014_10_21_061206_users.php",
+		"/C/xampp/htdocs/casy/app/database/migrations/2014_10_28_115056_profesores.php",
+		"/C/xampp/htdocs/casy/app/database/seeds/UserTableSeeder.php",
+		"/C/xampp/htdocs/loginrm/app/config/view.php",
+		"/C/xampp/htdocs/loginrm/app/views/pony.php",
+		"/C/xampp/htdocs/casy/app/database/migrations/2013_11_05_155858_create_users_table.php",
+		"/C/xampp/htdocs/loginrm/vendor/laravel/framework/src/Illuminate/Pagination/views/simple.php",
+		"/C/xampp/htdocs/loginrm/app/views/layout.blade.php",
+		"/C/xampp/htdocs/loginrm/vendor/laravel/framework/src/Illuminate/Pagination/views/slider.php",
+		"/C/xampp/htdocs/loginrm/vendor/laravel/framework/src/Illuminate/Pagination/Paginator.php",
+		"/C/xampp/htdocs/loginrm/app/views/paginacion.blade.php",
+		"/C/xampp/htdocs/laravel/app/config/view.php",
+		"/C/xampp/htdocs/loginrm/vendor/laravel/framework/src/Illuminate/View/View.php",
+		"/C/xampp/htdocs/cribbb/composer.json",
+		"/C/xampp/htdocs/loginrm/app/controllers/BaseController.php",
+		"/C/xampp/htdocs/loginrm/app/views/paginacion.php",
+		"/C/xampp/htdocs/ORM-RS/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/C/xampp/htdocs/laravel/composer.json",
+		"/C/xampp/htdocs/~hfhernan/css/component.css",
+		"/C/xampp/htdocs/ORM-RS/app/config/database.php",
+		"/C/xampp/htdocs/~hfhernan/index.html",
+		"/C/xampp/htdocs/~hfhernan/galeria.html",
+		"/C/xampp/htdocs/~hfhernan/index3.html",
+		"/C/xampp/htdocs/~hfhernan/css/style2.css",
+		"/C/xampp/htdocs/~hfhernan/curriculum.html",
+		"/C/xampp/htdocs/~hfhernan/css/demo.css",
+		"/C/xampp/htdocs/~hfhernan/index2.html",
+		"/C/xampp/htdocs/~hfhernan/css/style.css",
+		"/C/xampp/htdocs/~hfhernan/css/elastislide.css",
+		"/C/xampp/htdocs/foundation-5.3.3/contact.html",
+		"/C/xampp/htdocs/foundation-5.3.3/descargas.html",
+		"/C/xampp/htdocs/foundation-5.3.3/calificaciones.html",
+		"/C/xampp/htdocs/foundation-5.3.3/curriculum.html",
+		"/C/xampp/htdocs/laravel - copia/app/controllers/UsersController.php",
+		"/C/xampp/htdocs/foundation-5.3.3/index.html",
+		"/C/xampp/htdocs/foundation-5.3.3/galeria.html",
+		"/C/xampp/htdocs/foundation-5.3.3/enviarc.php",
+		"/C/xampp/htdocs/foundation-5.3.3/css/component.css",
+		"/C/xampp/htdocs/foundation-5.3.3/css/demo1.css",
+		"/C/xampp/htdocs/foundation-5.3.3/css/normalize.css",
+		"/C/Users/Victor/Desktop/StickyTableHeaders/css/component.css",
+		"/C/Users/Victor/Desktop/StickyTableHeaders/index.html",
+		"/C/xampp/htdocs/foundation-5.3.3/ResponsiveImageGallery/css/reset.css",
+		"/C/xampp/htdocs/foundation-5.3.3/ResponsiveImageGallery/css/demo.css",
+		"/C/xampp/htdocs/foundation-5.3.3/css/demo.css",
+		"/C/xampp/htdocs/foundation-5.3.3/css/style.css",
+		"/C/xampp/htdocs/foundation-5.3.3/css/elastislide.css",
+		"/C/xampp/htdocs/laravel - copia/app/models/User.php",
+		"/C/xampp/htdocs/laravel/app/database/seeds/UserTableSeeder.php",
+		"/C/Users/Victor/Downloads/foundation-5.3.3/index.html",
+		"/C/xampp/htdocs/foundation-5.3.3/ResponsiveImageGallery/css/elastislide.css",
+		"/C/xampp/htdocs/foundation-5.3.3/ResponsiveImageGallery/css/style.css",
+		"/C/Users/Victor/AppData/Local/Temp/Rar$EXa0.251/StickyTableHeaders/index.html",
+		"/C/xampp/htdocs/laravel/app/database/migrations/2014_10_21_061206_users.php",
+		"/F/reporta.sql",
+		"/C/Users/Victor/Downloads/127_0_0_1 (1).sql",
+		"/C/xampp/htdocs/laravel - copia/app/controllers/HomeController.php",
+		"/C/xampp/htdocs/laravel - copia/app/views/login.blade.php",
+		"/C/xampp/htdocs/laravel - copia/app/views/create.blade.php",
+		"/C/xampp/htdocs/laravel - copia/app/views/index.blade.php",
+		"/C/xampp/htdocs/laravel - copia/app/routes.php",
+		"/C/xampp/htdocs/reporta-Morelia/app/controllers/EmployeesController.php",
+		"/C/xampp/htdocs/laravel - copia/app/views/delete.blade.php",
+		"/C/xampp/htdocs/laravel - copia/app/views/edit.blade.php",
+		"/C/xampp/htdocs/reporta-Morelia/app/controllers/UsersController.php",
+		"/C/xampp/htdocs/laravel - copia/app/views/layout.blade.php",
+		"/C/xampp/htdocs/reporta-Morelia/app/views/layout.blade.php",
+		"/C/xampp/htdocs/reporta-Morelia/app/models/User.php",
+		"/C/xampp/htdocs/reporta-Morelia/app/routes.php",
+		"/C/xampp/htdocs/laravel - copia/app/database/migrations/2014_10_21_061206_users.php",
+		"/C/xampp/htdocs/laravel - copia/app/views/hello.php",
+		"/C/xampp/htdocs/ORM-RS/app/views/index.blade.php",
+		"/C/xampp/htdocs/ORM-RS/app/controllers/UsersController.php",
+		"/C/Users/Victor/Downloads/practica52.jj",
+		"/C/xampp/htdocs/ORM-RS/app/controllers/EmployeesController.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"<?",
+			"user",
+			"users",
+			"email",
+			"username",
+			"username ",
+			"User",
+			"Users",
+			"User",
+			"profesores",
+			"User",
+			"Users",
+			"pagination",
+			"employee",
+			"employe",
+			"emplo",
+			"repeat",
+			"Read More",
+			"0d8bde",
+			"es-car",
+			".es-car",
+			"038ce6 ",
+			"e4b42d",
+			"border",
+			".pdf",
+			"component",
+			"tr",
+			"over",
+			"hover",
+			"employee",
+			"div",
+			"dn",
+			"add",
+			">\n",
+			"protected",
+			"hand",
+			"auth",
+			"service",
+			"div",
+			"main",
+			"div",
+			"PC",
+			"prio",
+			"prioridad",
+			"cons",
+			"BLOQUE",
+			"EOF",
+			"F()",
+			"BLOQUE",
+			"if",
+			"opsum",
+			"WHILE",
+			"COMDOBLE",
+			"PYC",
+			"\"",
+			"DOSP",
+			":",
+			"const",
+			"if",
+			"explog",
+			"inc",
+			"bool",
+			"Galeria",
+			"B()",
+			"PA",
+			"if",
+			"simbolo",
+			"tdato",
+			"BRACE",
+			"PA",
+			"E()",
+			"PA",
+			"PC",
+			"COMP2",
+			"incdec",
+			"EIF",
+			"EA",
+			"DVAR",
+			"BLOQUE",
+			"DIGDEC",
+			"LLA",
+			"LLC",
+			"LOGICO",
+			"logico",
+			"ea",
+			"lentera",
+			"ID",
+			"LBRACE",
+			"RBRACE",
+			"tipo",
+			"LENTERA",
+			"PUNTOYC",
+			"puntoyc",
+			"pyc",
+			"content",
+			"*",
+			";",
+			"public",
+			"PYCO",
+			"reserved",
+			"$",
+			"false",
+			"continue",
+			"unowned",
+			"weak",
+			"IGUA",
+			"is",
+			"set",
+			"UNOWNED",
+			"UNOWNED:",
+			"prefix",
+			"weak",
+			"nil",
+			"</p></a>",
+			"HREF",
+			"P",
+			"Grande",
+			"HeadeGrande",
+			"head",
+			"<a href=\"#\">",
+			"<a>",
+			"</a>",
+			"<a/>",
+			"<hr/>",
+			"</hr>",
+			"tem",
+			"template",
+			"Orbit Graceful Loadin"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"profesor",
+			"Profesores",
+			"cargo",
+			"rfc",
+			"profesor",
+			"Profesores",
+			"Profesor",
+			"profesor",
+			"Profesor",
+			"profesor",
+			"Profesor",
+			"profesor",
+			"profesores",
+			"Profesores",
+			"user",
+			"More",
+			"202c3c",
+			"0d8bde",
+			"user",
+			"COM_DOBLE",
+			"PARENTESISAB",
+			"PARENTESISCE",
+			"VERDFA",
+			"INCREMENTADEC",
+			"IF",
+			"DECLARAVAR",
+			"DECI",
+			"RBRACE",
+			"BOOL",
+			"CORCHETED",
+			"CORCHETEI",
+			"ENTERO",
+			"PUNTOYC",
+			"puntoyc",
+			"</a></p>",
+			"href",
+			"p",
+			"grande",
+			"headegrande",
+			"",
+			"<hr/>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
